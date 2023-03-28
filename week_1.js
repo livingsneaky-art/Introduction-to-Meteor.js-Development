@@ -27,3 +27,24 @@
 //URL for this lession
 
 //Install Meteor
+
+
+//Editing a template
+//URL for this lesson
+
+//Editing a template
+
+
+//Sending data to templates with helpers
+
+
+//Convert to a Bootstrap grid
+//URL for this lesson
+
+//Convert to a Bootstrap grid
+
+
+//Responding to user actions
+
+
+//Introduction to Meteor Summary
