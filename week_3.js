@@ -24,11 +24,9 @@
 //Attaching users to images
 
 
-
-
 //Filtering images by user
 
-//Filtering images by user
+//URLs for this lesson
 
 
 //Removing the image filter
