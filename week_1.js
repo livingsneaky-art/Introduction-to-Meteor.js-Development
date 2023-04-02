@@ -48,3 +48,5 @@
 
 
 //Introduction to Meteor Summary
+
+//Install meteor and edit some templates
